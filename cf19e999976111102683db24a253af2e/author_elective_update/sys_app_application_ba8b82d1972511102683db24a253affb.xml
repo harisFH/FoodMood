@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_877667_foodmood.order_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>G2.2</sys_created_by>
+        <sys_created_on>2022-08-25 12:53:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba8b82d1972511102683db24a253affb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bestellung Aufgeben</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+        <sys_update_name>sys_app_application_ba8b82d1972511102683db24a253affb</sys_update_name>
+        <sys_updated_by>G2.2</sys_updated_by>
+        <sys_updated_on>2022-08-25 12:53:03</sys_updated_on>
+        <title>Bestellung Aufgeben</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FoodMood">cf19e999976111102683db24a253af2e</application>
+        <file_path/>
+        <instance_id>6a7e0bc0dbff85d091232f17d49619fd</instance_id>
+        <instance_name>dev128435</instance_name>
+        <name>sys_app_application_ba8b82d1972511102683db24a253affb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>x_877667_foodmood.order_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>G2.2</sys_created_by><sys_created_on>2022-08-25 12:53:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ba8b82d1972511102683db24a253affb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Bestellung Aufgeben</sys_name><sys_overrides/><sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package><sys_policy/><sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope><sys_update_name>sys_app_application_ba8b82d1972511102683db24a253affb</sys_update_name><sys_updated_by>G2.2</sys_updated_by><sys_updated_on>2022-08-25 12:53:03</sys_updated_on><title>Bestellung Aufgeben</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1568963556</payload_hash>
+        <record_name>Bestellung Aufgeben</record_name>
+        <reverted_from/>
+        <source>0a668e1d97e111102683db24a253af62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>G2.2</sys_created_by>
+        <sys_created_on>2022-08-25 12:53:03</sys_created_on>
+        <sys_id>ac2c4ad1972511102683db24a253afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182d5102cd50000001</sys_recorded_at>
+        <sys_updated_by>G2.2</sys_updated_by>
+        <sys_updated_on>2022-08-25 12:53:03</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>e42c4ad1ca25111068b30188ac5c81b5</update_guid>
+        <update_guid_history>e42c4ad1ca25111068b30188ac5c81b5:1568963556</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Bestellung Aufgeben">cfec4e15972511102683db24a253afe5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>G2.2</sys_created_by>
+        <sys_created_on>2022-08-25 12:56:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>2609a13ae7f84ace85c254d69ee58644</sys_id>
+        <sys_metadata>ba8b82d1972511102683db24a253affb</sys_metadata>
+        <sys_name>Bestellung Aufgeben</sys_name>
+        <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+        <sys_scope_delete display_value="">0081fce5b6a64e9c8a957a2c679cf704</sys_scope_delete>
+        <sys_update_name>sys_app_application_ba8b82d1972511102683db24a253affb</sys_update_name>
+        <sys_update_version display_value="sys_app_application_ba8b82d1972511102683db24a253affb">ac2c4ad1972511102683db24a253afb5</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

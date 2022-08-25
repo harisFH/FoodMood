@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9a6d0a55972511102683db24a253af83" extends="sys_import_set_row" label="Imp Tmpl X 877667 Foodmood Order" max_length="40" name="u_imp_tmpl_x_877667_foodmood_order" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Dish" label="Dish" max_length="32" name="u_dish" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FirstName" label="FirstName" max_length="100" name="u_firstname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LastName" label="LastName" max_length="100" name="u_lastname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OrderPlaced" label="OrderPlaced" max_length="40" name="u_orderplaced" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Price" label="Price" max_length="40" name="u_price" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+    </element>
+</database>

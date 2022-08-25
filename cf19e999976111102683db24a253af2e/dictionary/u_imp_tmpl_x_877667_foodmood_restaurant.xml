@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3bad8e55972511102683db24a253afd9" extends="sys_import_set_row" label="Imp Tmpl X 877667 Foodmood Restaurant" max_length="40" name="u_imp_tmpl_x_877667_foodmood_restaurant" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Address" label="Address" max_length="200" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manager" label="Manager" max_length="32" name="u_manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="200" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+    </element>
+</database>

@@ -7,7 +7,7 @@
         <hint/>
         <name>Order</name>
         <order>100</order>
-        <roles>x_877667_foodmood.order_user</roles>
+        <roles/>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>G2.2</sys_created_by>
         <sys_created_on>2022-08-25 11:53:21</sys_created_on>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Imp Tmpl X 877667 Foodmood Dish</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>u_imp_tmpl_x_877667_foodmood_dish</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-25 12:41:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b4994e11972511102683db24a253afa0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X 877667 Foodmood Dish</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+        <sys_update_name>sys_app_module_b4994e11972511102683db24a253afa0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-25 12:41:53</sys_updated_on>
+        <timeline_page/>
+        <title>Imp Tmpl X 877667 Foodmood Dish</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FoodMood">cf19e999976111102683db24a253af2e</application>
+        <file_path/>
+        <instance_id>6a7e0bc0dbff85d091232f17d49619fd</instance_id>
+        <instance_name>dev128435</instance_name>
+        <name>sys_app_module_b4994e11972511102683db24a253afa0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Imp Tmpl X 877667 Foodmood Dish</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_imp_tmpl_x_877667_foodmood_dish</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-25 12:41:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b4994e11972511102683db24a253afa0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Imp Tmpl X 877667 Foodmood Dish</sys_name><sys_overrides/><sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package><sys_policy/><sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope><sys_update_name>sys_app_module_b4994e11972511102683db24a253afa0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-25 12:41:53</sys_updated_on><timeline_page/><title>Imp Tmpl X 877667 Foodmood Dish</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1459450528</payload_hash>
+        <record_name>Imp Tmpl X 877667 Foodmood Dish</record_name>
+        <reverted_from/>
+        <source>f3468e1d97e111102683db24a253af6b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-25 12:41:53</sys_created_on>
+        <sys_id>b0994e11972511102683db24a253afa2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182d505f3e70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-25 12:41:53</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f8994e111b2511101acb2f73bfd680a1</update_guid>
+        <update_guid_history>f8994e111b2511101acb2f73bfd680a1:-1459450528</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Imp Tmpl X 877667 Foodmood Dish">7d4a8a51972511102683db24a253af03</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-25 12:44:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>9f3d38bff8fc4a9ba714fd006b24c961</sys_id>
+        <sys_metadata>b4994e11972511102683db24a253afa0</sys_metadata>
+        <sys_name>Imp Tmpl X 877667 Foodmood Dish</sys_name>
+        <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+        <sys_scope_delete display_value="">0081fce5b6a64e9c8a957a2c679cf704</sys_scope_delete>
+        <sys_update_name>sys_app_module_b4994e11972511102683db24a253afa0</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b4994e11972511102683db24a253afa0">b0994e11972511102683db24a253afa2</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
