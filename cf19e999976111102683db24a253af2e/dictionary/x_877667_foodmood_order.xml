@@ -8,6 +8,8 @@
         <element choice="1" label="State" max_length="40" name="state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Approved" value="2"/>
+                <element inactive_on_update="false" label="delivered" value="4"/>
+                <element inactive_on_update="false" label="done" value="3"/>
                 <element inactive_on_update="false" label="Rejected" value="0"/>
                 <element inactive_on_update="false" label="Waiting for Approval" value="1"/>
             </choice>

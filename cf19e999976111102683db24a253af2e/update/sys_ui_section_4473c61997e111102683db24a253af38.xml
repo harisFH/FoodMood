@@ -98,6 +98,20 @@
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>counter</element>
+            <position>7</position>
+            <sys_created_by>G2.2</sys_created_by>
+            <sys_created_on>2022-08-25 13:55:28</sys_created_on>
+            <sys_id>7a6a5ed1976511102683db24a253afb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_877667_foodmood_dish" sys_domain="global" view="Default view">4473c61997e111102683db24a253af38</sys_ui_section>
+            <sys_updated_by>G2.2</sys_updated_by>
+            <sys_updated_on>2022-08-25 13:55:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

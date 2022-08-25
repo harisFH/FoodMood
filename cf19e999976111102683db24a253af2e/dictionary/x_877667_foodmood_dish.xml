@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="7beb3d9d97a111102683db24a253af47" label="Dish" max_length="40" name="x_877667_foodmood_dish" type="collection">
+        <element label="Counter" max_length="40" name="counter" type="integer"/>
         <element label="Description" max_length="40" name="description" type="string"/>
         <element label="Name" max_length="100" name="name" type="string"/>
         <element label="Price" max_length="40" name="preis" type="float"/>

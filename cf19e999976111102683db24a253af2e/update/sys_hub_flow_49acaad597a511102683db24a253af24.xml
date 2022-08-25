@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>foodmood_oreder2dish</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>foodmood oreder2Dish</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>Haris</sys_created_by>
+        <sys_created_on>2022-08-25 15:15:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>49acaad597a511102683db24a253af24</sys_id>
+        <sys_name>foodmood oreder2Dish</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+        <sys_update_name>sys_hub_flow_49acaad597a511102683db24a253af24</sys_update_name>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=49acaad597a511102683db24a253af24"/>
+    <sys_variable_value action="delete_multiple" query="document_key=49acaad597a511102683db24a253af24"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=49acaad597a511102683db24a253af24"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=49acaad597a511102683db24a253af24"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=49acaad597a511102683db24a253af24^sys_idNOT IN09acaad597a511102683db24a253af26"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>49acaad597a511102683db24a253af24</id>
+        <name>foodmood oreder2Dish</name>
+        <sys_created_by>Haris</sys_created_by>
+        <sys_created_on>2022-08-25 15:15:05</sys_created_on>
+        <sys_id>09acaad597a511102683db24a253af26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>Haris</sys_updated_by>
+        <sys_updated_on>2022-08-25 15:15:05</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=09acaad597a511102683db24a253af26"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=49acaad597a511102683db24a253af24"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=49acaad597a511102683db24a253af24"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=49acaad597a511102683db24a253af24"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=49acaad597a511102683db24a253af24"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=49acaad597a511102683db24a253af24"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=49acaad597a511102683db24a253af24"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=49acaad597a511102683db24a253af24"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=49acaad597a511102683db24a253af24"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_49acaad597a511102683db24a253af24"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_49acaad597a511102683db24a253af24"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_49acaad597a511102683db24a253af24"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_49acaad597a511102683db24a253af24"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=49acaad597a511102683db24a253af24"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=49acaad597a511102683db24a253af24"/>
+</record_update>

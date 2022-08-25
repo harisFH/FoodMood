@@ -3,13 +3,24 @@
         <element label="Anzahl" max_length="40" name="anzahl" type="integer"/>
         <element label="DateOfOrder" max_length="40" name="dateoforder" type="glide_date_time"/>
         <element label="Notes" max_length="200" name="notes" type="string"/>
-        <element label="State" max_length="40" name="state" type="integer"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="canceled" value="0"/>
+                <element inactive_on_update="false" label="Checked" value="2"/>
+                <element inactive_on_update="false" label="in progress" value="1"/>
+                <element inactive_on_update="false" label="isdone" value="4"/>
+            </choice>
+        </element>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="User" max_length="32" name="user" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element attributes="encode_utf8=false" label="Dishes" max_length="32" name="x_877667_foodmood_dish" reference="x_877667_foodmood_dish" type="reference"/>
         <element attributes="encode_utf8=false" label="Orders" max_length="32" name="x_877667_foodmood_order" reference="x_877667_foodmood_order" type="reference"/>
         <index name="index">
-            <element name="x_877667_foodmood_dish"/>
+            <element name="user"/>
         </index>
         <index name="index2">
+            <element name="x_877667_foodmood_dish"/>
+        </index>
+        <index name="index3">
             <element name="x_877667_foodmood_order"/>
         </index>
     </element>
