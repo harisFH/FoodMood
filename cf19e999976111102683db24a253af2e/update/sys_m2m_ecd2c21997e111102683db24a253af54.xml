@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_877667_foodmood_order</from_table>
+        <m2m_from_field>x_877667_foodmood_order</m2m_from_field>
+        <m2m_from_label>Dishes</m2m_from_label>
+        <m2m_table>x_877667_foodmood_m2m_x_877667_foo_x_877667_foo</m2m_table>
+        <m2m_to_field>x_877667_foodmood_dish</m2m_to_field>
+        <m2m_to_label>Orders</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>G2.1</sys_created_by>
+        <sys_created_on>2022-08-25 12:12:43</sys_created_on>
+        <sys_id>ecd2c21997e111102683db24a253af54</sys_id>
+        <sys_name>x_877667_foodmood_m2m_x_877667_foo_x_877667_foo</sys_name>
+        <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+        <sys_update_name>sys_m2m_ecd2c21997e111102683db24a253af54</sys_update_name>
+        <to_table>x_877667_foodmood_dish</to_table>
+    </sys_m2m>
+</record_update>

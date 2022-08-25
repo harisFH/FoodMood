@@ -2,7 +2,7 @@
     <element db_object_id="7beb3d9d97a111102683db24a253af47" label="Dish" max_length="40" name="x_877667_foodmood_dish" type="collection">
         <element label="Description" max_length="40" name="description" type="string"/>
         <element label="Name" max_length="100" name="name" type="string"/>
-        <element label="Preis" max_length="40" name="preis" type="float"/>
+        <element label="Price" max_length="40" name="preis" type="float"/>
         <element label="Restaurant" max_length="32" name="restaurant" reference="x_877667_foodmood_restaurant" type="reference"/>
         <index name="index">
             <element name="restaurant"/>

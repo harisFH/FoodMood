@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="preis" table="x_877667_foodmood_dish">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="preis" table="x_877667_foodmood_order">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -35,7 +35,7 @@
         <internal_type display_value="">float</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_877667_foodmood_dish</name>
+        <name>x_877667_foodmood_order</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -51,12 +51,12 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>G2.2</sys_created_by>
-        <sys_created_on>2022-08-25 11:51:24</sys_created_on>
+        <sys_created_on>2022-08-25 12:04:16</sys_created_on>
         <sys_name>Price</sys_name>
         <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
         <sys_policy/>
         <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
-        <sys_update_name>sys_dictionary_x_877667_foodmood_dish_preis</sys_update_name>
+        <sys_update_name>sys_dictionary_x_877667_foodmood_order_preis</sys_update_name>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

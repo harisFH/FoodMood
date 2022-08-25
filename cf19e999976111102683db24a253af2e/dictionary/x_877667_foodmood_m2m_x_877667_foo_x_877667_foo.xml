@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bde24ad597e111102683db24a253af8a" label="Order2Dish" max_length="40" name="x_877667_foodmood_m2m_x_877667_foo_x_877667_foo" type="collection">
+        <element label="Anzahl" max_length="40" name="anzahl" type="integer"/>
+        <element label="DateOfOrder" max_length="40" name="dateoforder" type="glide_date_time"/>
+        <element label="Notes" max_length="200" name="notes" type="string"/>
+        <element label="State" max_length="40" name="state" type="integer"/>
+        <element attributes="encode_utf8=false" label="Dishes" max_length="32" name="x_877667_foodmood_dish" reference="x_877667_foodmood_dish" type="reference"/>
+        <element attributes="encode_utf8=false" label="Orders" max_length="32" name="x_877667_foodmood_order" reference="x_877667_foodmood_order" type="reference"/>
+        <index name="index">
+            <element name="x_877667_foodmood_dish"/>
+        </index>
+        <index name="index2">
+            <element name="x_877667_foodmood_order"/>
+        </index>
+    </element>
+</database>

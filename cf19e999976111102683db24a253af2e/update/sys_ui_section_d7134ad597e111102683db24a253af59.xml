@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d7134ad597e111102683db24a253af59" sys_domain="global" table="x_877667_foodmood_order" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>firstname</element>
+            <position>0</position>
+            <sys_created_by>G2.1</sys_created_by>
+            <sys_created_on>2022-08-25 12:13:39</sys_created_on>
+            <sys_id>97134ad597e111102683db24a253af60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_877667_foodmood_order" sys_domain="global" view="Default view">d7134ad597e111102683db24a253af59</sys_ui_section>
+            <sys_updated_by>G2.1</sys_updated_by>
+            <sys_updated_on>2022-08-25 12:13:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lastname</element>
+            <position>1</position>
+            <sys_created_by>G2.1</sys_created_by>
+            <sys_created_on>2022-08-25 12:13:39</sys_created_on>
+            <sys_id>5f134ad597e111102683db24a253af60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_877667_foodmood_order" sys_domain="global" view="Default view">d7134ad597e111102683db24a253af59</sys_ui_section>
+            <sys_updated_by>G2.1</sys_updated_by>
+            <sys_updated_on>2022-08-25 12:13:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>2</position>
+            <sys_created_by>G2.1</sys_created_by>
+            <sys_created_on>2022-08-25 12:13:39</sys_created_on>
+            <sys_id>93134a1997e111102683db24a253af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_877667_foodmood_order" sys_domain="global" view="Default view">d7134ad597e111102683db24a253af59</sys_ui_section>
+            <sys_updated_by>G2.1</sys_updated_by>
+            <sys_updated_on>2022-08-25 12:13:39</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>G2.1</sys_created_by>
+            <sys_created_on>2022-08-25 12:13:39</sys_created_on>
+            <sys_id>17134a1997e111102683db24a253af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_877667_foodmood_order" sys_domain="global" view="Default view">d7134ad597e111102683db24a253af59</sys_ui_section>
+            <sys_updated_by>G2.1</sys_updated_by>
+            <sys_updated_on>2022-08-25 12:13:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>orderplaced</element>
+            <position>4</position>
+            <sys_created_by>G2.1</sys_created_by>
+            <sys_created_on>2022-08-25 12:13:39</sys_created_on>
+            <sys_id>97134a1997e111102683db24a253af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_877667_foodmood_order" sys_domain="global" view="Default view">d7134ad597e111102683db24a253af59</sys_ui_section>
+            <sys_updated_by>G2.1</sys_updated_by>
+            <sys_updated_on>2022-08-25 12:13:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>G2.1</sys_created_by>
+            <sys_created_on>2022-08-25 12:13:39</sys_created_on>
+            <sys_id>1b134a1997e111102683db24a253af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_877667_foodmood_order" sys_domain="global" view="Default view">d7134ad597e111102683db24a253af59</sys_ui_section>
+            <sys_updated_by>G2.1</sys_updated_by>
+            <sys_updated_on>2022-08-25 12:13:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preis</element>
+            <position>6</position>
+            <sys_created_by>G2.1</sys_created_by>
+            <sys_created_on>2022-08-25 12:13:39</sys_created_on>
+            <sys_id>9b134a1997e111102683db24a253af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_877667_foodmood_order" sys_domain="global" view="Default view">d7134ad597e111102683db24a253af59</sys_ui_section>
+            <sys_updated_by>G2.1</sys_updated_by>
+            <sys_updated_on>2022-08-25 12:13:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dish</element>
+            <position>7</position>
+            <sys_created_by>G2.1</sys_created_by>
+            <sys_created_on>2022-08-25 12:13:39</sys_created_on>
+            <sys_id>1f134a1997e111102683db24a253af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_877667_foodmood_order" sys_domain="global" view="Default view">d7134ad597e111102683db24a253af59</sys_ui_section>
+            <sys_updated_by>G2.1</sys_updated_by>
+            <sys_updated_on>2022-08-25 12:13:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>G2.1</sys_created_by>
+            <sys_created_on>2022-08-25 12:13:39</sys_created_on>
+            <sys_id>9f134a1997e111102683db24a253af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_877667_foodmood_order" sys_domain="global" view="Default view">d7134ad597e111102683db24a253af59</sys_ui_section>
+            <sys_updated_by>G2.1</sys_updated_by>
+            <sys_updated_on>2022-08-25 12:13:39</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_877667_foodmood_order</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>G2.1</sys_created_by>
+            <sys_created_on>2022-08-25 12:13:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7134ad597e111102683db24a253af59</sys_id>
+            <sys_name>x_877667_foodmood_order</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+            <sys_update_name>sys_ui_section_d7134ad597e111102683db24a253af59</sys_update_name>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

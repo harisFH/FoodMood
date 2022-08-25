@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Dish</name>
+        <order>100</order>
+        <roles>x_877667_foodmood.Manager</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>G2.2</sys_created_by>
+        <sys_created_on>2022-08-25 11:44:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>746c719d97a111102683db24a253af8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dish</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+        <sys_update_name>sys_app_application_746c719d97a111102683db24a253af8d</sys_update_name>
+        <sys_updated_by>G2.2</sys_updated_by>
+        <sys_updated_on>2022-08-25 11:44:16</sys_updated_on>
+        <title>Dish</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FoodMood">cf19e999976111102683db24a253af2e</application>
+        <file_path/>
+        <instance_id>6a7e0bc0dbff85d091232f17d49619fd</instance_id>
+        <instance_name>dev128435</instance_name>
+        <name>sys_app_application_746c719d97a111102683db24a253af8d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Dish</name><order>100</order><roles>x_877667_foodmood.Manager</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>G2.2</sys_created_by><sys_created_on>2022-08-25 11:44:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>746c719d97a111102683db24a253af8d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dish</sys_name><sys_overrides/><sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package><sys_policy/><sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope><sys_update_name>sys_app_application_746c719d97a111102683db24a253af8d</sys_update_name><sys_updated_by>G2.2</sys_updated_by><sys_updated_on>2022-08-25 11:44:16</sys_updated_on><title>Dish</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1797426814</payload_hash>
+        <record_name>Dish</record_name>
+        <reverted_from/>
+        <source>0f19e999976111102683db24a253af30</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>G2.2</sys_created_by>
+        <sys_created_on>2022-08-25 11:44:16</sys_created_on>
+        <sys_id>706c75dd97a111102683db24a253af4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182d4d1338f0000001</sys_recorded_at>
+        <sys_updated_by>G2.2</sys_updated_by>
+        <sys_updated_on>2022-08-25 11:44:16</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>b86c75dd1aa1111012c661a603dd2a49</update_guid>
+        <update_guid_history>b86c75dd1aa1111012c661a603dd2a49:-1797426814</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Dish">46734e1997e111102683db24a253af4b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>G2.2</sys_created_by>
+        <sys_created_on>2022-08-25 12:15:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>0fede79498e74a42860af3c3d403c6a9</sys_id>
+        <sys_metadata>746c719d97a111102683db24a253af8d</sys_metadata>
+        <sys_name>Dish</sys_name>
+        <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+        <sys_scope_delete display_value="">0081fce5b6a64e9c8a957a2c679cf704</sys_scope_delete>
+        <sys_update_name>sys_app_application_746c719d97a111102683db24a253af8d</sys_update_name>
+        <sys_update_version display_value="sys_app_application_746c719d97a111102683db24a253af8d">706c75dd97a111102683db24a253af4a</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

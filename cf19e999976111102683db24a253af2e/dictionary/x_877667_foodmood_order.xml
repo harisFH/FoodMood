@@ -4,7 +4,7 @@
         <element label="FirstName" max_length="100" name="firstname" type="string"/>
         <element label="LastName" max_length="100" name="lastname" type="string"/>
         <element label="OrderPlaced" max_length="40" name="orderplaced" type="glide_date_time"/>
-        <element label="Preis" max_length="40" name="preis" type="float"/>
+        <element label="Price" max_length="40" name="preis" type="float"/>
         <element choice="1" label="State" max_length="40" name="state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Approved" value="2"/>
