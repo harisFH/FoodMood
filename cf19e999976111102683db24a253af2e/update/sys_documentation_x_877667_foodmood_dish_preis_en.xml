@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="preis" label="Preis" language="en" table="x_877667_foodmood_dish">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>preis</element>
+            <help/>
+            <hint/>
+            <label>Preis</label>
+            <language>en</language>
+            <name>x_877667_foodmood_dish</name>
+            <plural>Preis</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>G2.2</sys_created_by>
+            <sys_created_on>2022-08-25 11:51:24</sys_created_on>
+            <sys_name>Preis</sys_name>
+            <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+            <sys_update_name>sys_documentation_x_877667_foodmood_dish_preis_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

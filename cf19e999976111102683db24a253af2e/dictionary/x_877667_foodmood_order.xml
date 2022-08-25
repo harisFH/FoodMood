@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8d2e795197e111102683db24a253af5d" label="Order" max_length="40" name="x_877667_foodmood_order" type="collection">
+        <element label="FirstName" max_length="100" name="firstname" type="string"/>
+        <element label="LastName" max_length="100" name="lastname" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

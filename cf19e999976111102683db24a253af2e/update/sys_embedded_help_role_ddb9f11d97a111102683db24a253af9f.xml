@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_877667_foodmood.Manager" name="x_877667_foodmood.Manager">d87831d997a111102683db24a253af60</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>G2.2</sys_created_by>
+        <sys_created_on>2022-08-25 11:32:33</sys_created_on>
+        <sys_id>ddb9f11d97a111102683db24a253af9f</sys_id>
+        <sys_name>d87831d997a111102683db24a253af60</sys_name>
+        <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ddb9f11d97a111102683db24a253af9f</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
