@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="bde24ad597e111102683db24a253af8a" label="Order2Dish" max_length="40" name="x_877667_foodmood_m2m_x_877667_foo_x_877667_foo" type="collection">
+    <element label="Order2Dish" max_length="40" name="x_877667_foodmood_m2m_x_877667_foo_x_877667_foo" type="collection">
         <element label="Anzahl" max_length="40" name="anzahl" type="integer"/>
-        <element label="DateOfOrder" max_length="40" name="dateoforder" type="glide_date_time"/>
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="DateOfOrder" max_length="40" name="dateoforder" read_only="true" type="glide_date_time" use_dynamic_default="true"/>
         <element label="Notes" max_length="200" name="notes" type="string"/>
         <element choice="1" label="State" max_length="40" name="state" type="choice">
             <choice>
@@ -15,13 +15,13 @@
         <element attributes="encode_utf8=false" label="Dishes" max_length="32" name="x_877667_foodmood_dish" reference="x_877667_foodmood_dish" type="reference"/>
         <element attributes="encode_utf8=false" label="Orders" max_length="32" name="x_877667_foodmood_order" reference="x_877667_foodmood_order" type="reference"/>
         <index name="index">
-            <element name="user"/>
+            <element name="x_877667_foodmood_order"/>
         </index>
         <index name="index2">
-            <element name="x_877667_foodmood_dish"/>
+            <element name="user"/>
         </index>
         <index name="index3">
-            <element name="x_877667_foodmood_order"/>
+            <element name="x_877667_foodmood_dish"/>
         </index>
     </element>
 </database>

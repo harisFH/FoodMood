@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-25 21:32:50</sys_created_on>
+        <sys_id>9a13cc2197a11110f7823d400153af52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_877667_foodmood_users.x_877667_foodmood.users_user</sys_name>
+        <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
+        <sys_security_acl display_value="x_877667_foodmood_users">9213cc2197a11110f7823d400153af50</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9a13cc2197a11110f7823d400153af52</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-25 21:32:50</sys_updated_on>
+        <sys_user_role display_value="x_877667_foodmood.users_user" name="x_877667_foodmood.users_user">1e13442197a11110f7823d400153afd1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

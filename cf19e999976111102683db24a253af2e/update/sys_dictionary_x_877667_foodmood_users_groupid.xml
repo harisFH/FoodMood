@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="dateoforder" table="x_877667_foodmood_m2m_x_877667_foo_x_877667_foo">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="groupid" table="x_877667_foodmood_users">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,10 +14,10 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>DateOfOrder</column_label>
+        <column_label>GroupID</column_label>
         <comments/>
         <create_roles/>
-        <default_value>javascript:gs.nowDateTime()</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -25,22 +25,22 @@
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
-        <dynamic_default_value display_value="Now (Date and Time)">79cb83a85f220100a9ad2572f2b4773c</dynamic_default_value>
+        <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>dateoforder</element>
+        <element>groupid</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">glide_date_time</internal_type>
+        <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
-        <name>x_877667_foodmood_m2m_x_877667_foo_x_877667_foo</name>
+        <max_length>32</max_length>
+        <name>x_877667_foodmood_users</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="sys_user_group">sys_user_group</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -51,22 +51,22 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>G2.1</sys_created_by>
-        <sys_created_on>2022-08-25 12:21:36</sys_created_on>
-        <sys_id>2ca4e31597211110f7823d400153af00</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>DateOfOrder</sys_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-25 22:44:03</sys_created_on>
+        <sys_id>950318ed97a11110f7823d400153afa5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GroupID</sys_name>
         <sys_package display_value="FoodMood" source="x_877667_foodmood">cf19e999976111102683db24a253af2e</sys_package>
         <sys_policy/>
         <sys_scope display_value="FoodMood">cf19e999976111102683db24a253af2e</sys_scope>
-        <sys_update_name>sys_dictionary_x_877667_foodmood_m2m_x_877667_foo_x_877667_foo_dateoforder</sys_update_name>
+        <sys_update_name>sys_dictionary_x_877667_foodmood_users_groupid</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-25 23:49:36</sys_updated_on>
+        <sys_updated_on>2022-08-25 22:44:03</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
-        <use_dynamic_default>true</use_dynamic_default>
+        <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
         <widget/>

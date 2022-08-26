@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Users" max_length="40" name="x_877667_foodmood_users" type="collection">
+        <element label="GroupID" max_length="32" name="groupid" reference="sys_user_group" type="reference"/>
+        <element label="RestaurantID" max_length="32" name="restaurantid" reference="x_877667_foodmood_restaurant" type="reference"/>
+        <element label="UserID" max_length="32" name="userid" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="groupid"/>
+        </index>
+        <index name="index2">
+            <element name="restaurantid"/>
+        </index>
+        <index name="index3">
+            <element name="userid"/>
+        </index>
+    </element>
+</database>

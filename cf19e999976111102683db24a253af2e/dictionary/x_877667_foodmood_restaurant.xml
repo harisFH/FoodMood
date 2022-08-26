@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="848bf91d97a111102683db24a253afde" label="Restaurant" max_length="40" name="x_877667_foodmood_restaurant" type="collection">
+    <element label="Restaurant" max_length="40" name="x_877667_foodmood_restaurant" type="collection">
         <element label="Address" max_length="200" name="address" type="string"/>
-        <element label="Cook" max_length="32" name="cook" reference="sys_user" type="reference"/>
-        <element label="Driver" max_length="32" name="driver" reference="sys_user" type="reference"/>
-        <element label="Manager" max_length="32" name="manager" reference="sys_user" reference_qual="managerDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ" reference_qual_condition="managerDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ" type="reference"/>
         <element display="true" label="Name" max_length="200" name="name" type="string"/>
-        <element choice="1" default="0&#13;&#10;" label="State" max_length="40" name="state" type="choice">
+        <element choice="1" default="0" label="State" max_length="40" name="state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="closed" value="0"/>
                 <element inactive_on_update="false" label="open" value="1"/>
             </choice>
         </element>
-        <index name="index">
-            <element name="cook"/>
-        </index>
-        <index name="index2">
-            <element name="driver"/>
-        </index>
-        <index name="index3">
-            <element name="manager"/>
-        </index>
     </element>
 </database>
